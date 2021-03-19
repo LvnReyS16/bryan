@@ -28,31 +28,23 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: '160503127_454122789346107_5692070975671346777_n.jpg',
+    title: 'Bryan Joy Ballener',
+    info: 'A college student at Western Mindanao State University, taking the Bachelor of Science in Information Technology course. I am hard-working and attentive student.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: '161311033_5112976542111131_5345201343249593739_n.jpg',
+    title: 'Danica Joy Enjambre',
+    info: 'I studied Bachelor of Science in Information Technology at Western Mindanao State University. I enjoy whenever I am designing something.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  
 ];
 
 // CONTACT DATA
@@ -72,17 +64,12 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'github',
+      name: 'facebook',
       url: '',
     },
   ],
